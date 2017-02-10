@@ -1,2 +1,2 @@
 # CIBatchDemo
-2. commit from master
+2.commit from master
